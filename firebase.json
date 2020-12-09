@@ -1,0 +1,23 @@
+{
+  "firestore": {
+    "rules": "firestore/firestore.rules",
+    "indexes": "firestore/firestore.indexes.json"
+  },
+  "hosting": {
+    "public": "static",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/sanktuaria/**",
+        "run": {
+          "serviceId": "sanktuaria_20201209",
+          "region": "europe-west1"
+        }
+      }
+    ]
+  }
+}
