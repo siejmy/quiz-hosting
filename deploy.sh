@@ -5,8 +5,6 @@ set -e
 
 source project.config.sh
 
-"${DIR_PROJECT}/build.sh"
-
-"${DIR_APPS}/deploy.sh"
+"./runs/sanktuaria/deploy.sh"
 
 firebase deploy --only hosting,firestore

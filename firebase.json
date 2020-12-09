@@ -14,7 +14,7 @@
       {
         "source": "/sanktuaria/**",
         "run": {
-          "serviceId": "sanktuaria_20201209",
+          "serviceId": "sanktuaria-20201209",
           "region": "europe-west1"
         }
       }
