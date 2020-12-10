@@ -11,8 +11,12 @@ CLOUDRUN_TAG="gcr.io/${GCP_PROJECT_ID}/${CONTAINER_NAME}"
 gcloud builds submit --tag "${CLOUDRUN_TAG}"
 
 gcloud beta run deploy "${CONTAINER_NAME}" \
-                       --allow-unauthenticated \
-                       --region "${GCP_REGION_CLOUDRUN}" \
-                       --image "${CLOUDRUN_TAG}" \
-                       --platform managed
+          --region "${GCP_REGION_CLOUDRUN}" \
+          --image "${CLOUDRUN_TAG}" \
+          --cpu 1 \
+          --memory 256Mi \
+          --max-instances 1 \
+          --timeout 10s \
+          --allow-unauthenticated \
+          --platform managed
 
