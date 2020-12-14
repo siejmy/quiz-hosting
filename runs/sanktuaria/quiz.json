@@ -4,29 +4,29 @@
   "type": "abcd",
   "introHtml": "Czy potrafisz rozpoznać, który wizarunek Matki Przenajświętszej pochodzi z jakiego sanktuarium?",
   "metaIntro": "Czy potrafisz rozpoznać, który wizarunek Matki Przenajświętszej pochodzi z jakiego sanktuarium?",
-  "introImageUrl": "sanktuaria-4.jpg",
+  "introImageUrl": "/sanktuaria/static/sanktuaria-4.jpg",
   "questions": [
     {
       "title": "Co to za sanktuarium?",
-      "imageUrl": "sanktuaria-1.jpg",
+      "imageUrl": "/sanktuaria/static/sanktuaria-1.jpg",
       "distractors": ["Częstochowa", "Ostrożany", "Obory", "Gietrzwałd"],
       "correctNo": 0
     },
     {
       "title": "Co to za sanktuarium?",
-      "imageUrl": "sanktuaria-2.jpg",
+      "imageUrl": "/sanktuaria/static/sanktuaria-2.jpg",
       "distractors": ["Częstochowa", "Ostrożany", "Obory", "Gietrzwałd"],
       "correctNo": 3
     },
     {
       "title": "Co to za sanktuarium?",
-      "imageUrl": "sanktuaria-3.jpg",
+      "imageUrl": "/sanktuaria/static/sanktuaria-3.jpg",
       "distractors": ["Częstochowa", "Ostrożany", "Obory", "Gietrzwałd"],
       "correctNo": 2
     },
     {
       "title": "Co to za sanktuarium?",
-      "imageUrl": "sanktuaria-4.jpg",
+      "imageUrl": "/sanktuaria/static/sanktuaria-4.jpg",
       "distractors": ["Częstochowa", "Ostrożany", "Obory", "Gietrzwałd"],
       "correctNo": 1
     }
