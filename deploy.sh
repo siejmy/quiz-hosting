@@ -5,6 +5,8 @@ set -e
 
 source project.config.sh
 
-"./runs/sanktuaria/deploy.sh"
+"./runs/sanktuaria/deploy.sh" &
+"./runs/cuda-eucharystyczne/deploy.sh" &
+wait
 
 firebase deploy --only hosting,firestore

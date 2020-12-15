@@ -17,6 +17,13 @@
           "serviceId": "sanktuaria-20201209",
           "region": "europe-west1"
         }
+      },
+      {
+        "source": "/cuda-eucharystyczne/**",
+        "run": {
+          "serviceId": "cuda-eucharystyczne-20201215",
+          "region": "europe-west1"
+        }
       }
     ]
   }
