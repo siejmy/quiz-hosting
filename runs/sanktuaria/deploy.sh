@@ -16,6 +16,7 @@ gcloud beta run deploy "${CONTAINER_NAME}" \
           --cpu 1 \
           --memory 256Mi \
           --max-instances 1 \
+          --concurrency 15 \
           --timeout 10s \
           --allow-unauthenticated \
           --platform managed

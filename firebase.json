@@ -24,6 +24,13 @@
           "serviceId": "cuda-eucharystyczne-20201215",
           "region": "europe-west1"
         }
+      },
+      {
+        "source": "/ile-wiesz-o-bozym-narodzeniu/**",
+        "run": {
+          "serviceId": "ile-wiesz-o-bozym-narodzeniu-20201217",
+          "region": "europe-west1"
+        }
       }
     ]
   }

@@ -5,7 +5,7 @@ set -e
 
 source ../../project.config.sh
 
-CONTAINER_NAME="cuda-eucharystyczne-20201215"
+CONTAINER_NAME="ile-wiesz-o-bozym-narodzeniu-20201217"
 CLOUDRUN_TAG="gcr.io/${GCP_PROJECT_ID}/${CONTAINER_NAME}"
 
 gcloud builds submit --tag "${CLOUDRUN_TAG}"
@@ -16,8 +16,8 @@ gcloud beta run deploy "${CONTAINER_NAME}" \
           --cpu 1 \
           --memory 256Mi \
           --max-instances 1 \
+          --timeout 5s \
           --concurrency 15 \
-          --timeout 10s \
           --allow-unauthenticated \
           --platform managed
 

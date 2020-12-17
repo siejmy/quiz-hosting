@@ -7,6 +7,7 @@ source project.config.sh
 
 "./runs/sanktuaria/deploy.sh" &
 "./runs/cuda-eucharystyczne/deploy.sh" &
+"./runs/ile-wiesz-o-bozym-narodzeniu/deploy.sh" &
 wait
 
 firebase deploy --only hosting,firestore

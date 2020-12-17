@@ -1,0 +1,54 @@
+{
+  "id": "ile-wiesz-o-bozym-narodzeniu",
+  "title": "Ile wiesz o Bożym Narodzeniu?",
+  "type": "abcd",
+  "introHtml": "Jak dobrze znasz Boże Narodzenie? Czy jesteś pewien, który Archanioł zwiastował? Sprawdź się! Autor: Piotr Ziemecki",
+  "metaIntro": "Jak dobrze znasz Boże Narodzenie? Czy jesteś pewien, który Archanioł zwiastował? Sprawdź się! Autor: Piotr Ziemecki",
+  "introImageUrl": "/ile-wiesz-o-bozym-narodzeniu/static/f1_the-annunciation.jpg",
+  "introLegal": "Zdjęcia pobrane z pixabay.com - każde na zerowej licencji.",
+  "datePublishedISO": "2020-12-17T14:05:34Z",
+  "questions": [
+    {
+      "title": "Który z Archaniołów zwiastował Maryi, że pocznie i porodzi Syna Bożego?",
+      "imageUrl": "/ile-wiesz-o-bozym-narodzeniu/static/f1_the-annunciation.jpg",
+      "distractors": ["Michał", "Gabriel", "Emmanuel", "Rafał"],
+      "correctNo": 1
+    },
+    {
+      "title": "Co chciał uczynić Józef po tym, gdy dowiedział się, że Maryja stała się brzemienną:",
+      "imageUrl": "/ile-wiesz-o-bozym-narodzeniu/static/f2.jpg",
+      "distractors": ["chciał Ją oddalić", "chciał zbiec wraz z Maryją do Egiptu", "chciał poślubić Maryję"],
+      "correctNo": 0
+    },
+    {
+      "title": "Boże Narodzenie poprzedził spis ludności zarządzony przez cesarza:",
+      "imageUrl": "/ile-wiesz-o-bozym-narodzeniu/static/f3.jpg",
+      "distractors": ["Gajusza", "Justyniana", "Augusta", "Juliusza"],
+      "correctNo": 2
+    },
+    {
+      "title": "Co miało być znakiem narodzin Zbawiciela ogłoszonym przez Anioła pasterzom w okolicach Betlejem?",
+      "imageUrl": "/ile-wiesz-o-bozym-narodzeniu/static/f4.jpg",
+      "distractors": ["Gwiazda prowadząca do Betlejem", "Anioł zstępujący nad Betlejem", "Niemowlę owinięte w pieluszki i leżące w żłobie"],
+      "correctNo": 2
+    },
+    {
+      "title": "Co śpiewały zastępy niebieskie zgromadzone przy pasterzach:",
+      "imageUrl": "/ile-wiesz-o-bozym-narodzeniu/static/f5.jpg",
+      "distractors": ["Hosanna", "Sanctus", "Gloria"],
+      "correctNo": 2
+    },
+    {
+      "title": "Jak zareagował Herod po przybyciu do Jerozolimy mędrców ze Wschodu, którzy pytali o miejsce narodzin Króla żydowskiego?",
+      "imageUrl": "/ile-wiesz-o-bozym-narodzeniu/static/f6.jpg",
+      "distractors": ["wpadł w gniew", "przeraził się", "rozdarł swe szaty"],
+      "correctNo": 1
+    },
+    {
+      "title": "Kto powiedział Józefowi, aby uciekał z Dziecięciem i Jego Matką do Egiptu?",
+      "imageUrl": "/ile-wiesz-o-bozym-narodzeniu/static/f7.png",
+      "distractors": ["anioł Pański", "mędrcy ze Wschodu", "pasterze"],
+      "correctNo": 0
+    }
+  ]
+}
