@@ -1,0 +1,48 @@
+{
+  "id": "ile-wiesz-o-epifanii",
+  "title": "Ile wiesz o Epifanii? (6 stycznia)",
+  "type": "abcd",
+  "introHtml": "Od 10 lat Święto Trzech Króli jest dniem wolnym od pracy. Dlaczego jest takie ważne? Czy C+M+B to nowy skrót klawiszowy? Sprawdź się! Autor: Piotr Ziemecki",
+  "metaIntro": "Od 10 lat Święto Trzech Króli jest dniem wolnym od pracy. Dlaczego jest takie ważne? Czy C+M+B to nowy skrót klawiszowy? Sprawdź się! Autor: Piotr Ziemecki",
+  "introImageUrl": "/ile-wiesz-o-epifanii/static/intro.jpeg",
+  "introLegal": "Zdjęcia pobrane z pixabay.com - każde na zerowej licencji.",
+  "datePublishedISO": "2020-12-17T14:05:34Z",
+  "questions": [
+    {
+      "title": "Liturgiczna nazwa święta Trzech Króli to:",
+      "imageUrl": "/ile-wiesz-o-epifanii/static/n1.jpeg",
+      "distractors": ["Uroczystość Chrztu Pańskiego", "Uroczystość Narodzenia Pańskiego", "Uroczystość Objawienia Pańskiego"],
+      "correctNo": 2
+    },
+    {
+      "title": "Epifania to nazwa pochodzenia greckiego i oznaczająca:",
+      "imageUrl": "/ile-wiesz-o-epifanii/static/n2.jpeg",
+      "distractors": ["objawienie, ukazanie się", "złożenie pokłonu", "przybycie króla"],
+      "correctNo": 0
+    },
+    {
+      "title": "Skrót C+M+B (równie często stosowany, jak K+M+B) oznacza:",
+      "imageUrl": "/ile-wiesz-o-epifanii/static/n3.jpeg",
+      "distractors": ["również imiona trzech króli, z tym, że Kacper pisany jest jako Cacper","łacińskie wyrazy: Christus + Maria + Bethlehem", "łacińskie sformułowanie: Christus Mansionem Benedicat"],
+      "correctNo": 2
+    },
+    {
+      "title": "Ilu Mędrców według słów Ewangelii przybyło pokłonić się Synowi Bożemu w Betlejem?",
+      "imageUrl": "/ile-wiesz-o-epifanii/static/n4.jpeg",
+      "distractors": ["Ewangelia nie precyzuje dokładnej liczby Mędrców", "Trzech", "Ewangelia wspomina tylko o jednym Mędrcu"],
+      "correctNo": 0
+    },
+    {
+      "title": "Prawdą jest, że:",
+      "imageUrl": "/ile-wiesz-o-epifanii/static/n5.jpeg",
+      "distractors": ["Uroczystość Objawienia Pańskiego została ustanowiona po Soborze Trydenckim w XVI wieku", "Uroczystość Objawienia Pańskiego jest - obok Wielkanocy - najstarszym świętem chrześcijańskim", "Uroczystość Objawienia Pańskiego do Soboru Watykańskiego II obchodzona była wyłącznie w prawosławnej części Kościoła powszechnego"],
+      "correctNo": 1
+    },
+    {
+      "title": "Uroczystość Objawienia Pańskiego:",
+      "imageUrl": "/ile-wiesz-o-epifanii/static/n6.jpeg",
+      "distractors": ["jest świętem nieobowiązkowym, o którym decydują Episkopaty poszczególnych krajów", "jest świętem nakazanym, co oznacza, że 6 stycznia (co do zasady) w całym katolickim świecie należy uczestniczyć w Mszy Św.",  "jest świętem ruchomym i przypada w trzecią Niedzielę po Bożym Narodzeniu"],
+      "correctNo": 1
+    }
+  ]
+}
