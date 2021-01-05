@@ -31,6 +31,13 @@
           "serviceId": "ile-wiesz-o-bozym-narodzeniu-20201217",
           "region": "europe-west1"
         }
+      },
+      {
+        "source": "/ile-wiesz-o-epifanii/**",
+        "run": {
+          "serviceId": "ile-wiesz-o-epifanii-20210106",
+          "region": "europe-west1"
+        }
       }
     ]
   }
